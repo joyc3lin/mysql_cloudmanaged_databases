@@ -8,3 +8,5 @@ HHA 504 assignment 4a
 ## Azure
 
 # MySQL Workbench Interaction
+
+# Errors/Challenges
