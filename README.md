@@ -68,6 +68,9 @@ HHA 504 assignment 4a
   + Specific code can be found in their respective files: [GCP](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/GCP/create.sql) , [Azure](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/Azure/code.sql)
 
 **To create ERD**
-+
+
++ In workbench, under Database, selected Reverse Engineer Database
+  + For stored Connection, selected the respective connection that is being used: [GCP](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/GCP/Screenshot%202023-10-01%20225125.png) , [Azure](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/Azure/Screenshot%202023-10-01%20225014.png)
+
 
 # Errors/Challenges
