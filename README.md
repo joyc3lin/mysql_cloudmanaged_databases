@@ -1,2 +1,10 @@
 # mysql_cloudmanaged_databases
-HHA 405 assignment 4a
+HHA 504 assignment 4a
+
+# MySQL Setup: 
+
+## GCP
+
+## Azure
+
+# MySQL Workbench Interaction
