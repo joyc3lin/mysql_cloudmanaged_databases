@@ -17,13 +17,20 @@ HHA 504 assignment 4a
     + Selected '1 vCPU, 0.614 GB'
   + In Storage: selected '10 GB'
 + In order to allow inbound traffic from the world wide web:
-  + In Connections: select 'ADD A NETWORK'
-  + Give the conenction a name
+  + In Connections: selected 'ADD A NETWORK'
+  + Gave the connection a name: Allow All 
   + Set network to <code>0.0.0.0/0</code>
   + Click 'done'
++ Scrolled to the bottom and clicked 'Create Instance'
 
 ## Azure
 
++ In [Microsoft Azure](https://portal.azure.com/#home), under azure services, selected 'Azure Database for MySQL servers'
++ clicked '+create'
++ Selected the Flexible server to create
++ Selected 'Azure for Students' as the Subscription the individual resource group created
++ Named the server and selected 'for development or hobby projects' as workload type
++ For compute + storage: 'Burstable, B1ms'
 
 # MySQL Workbench Interaction
 
