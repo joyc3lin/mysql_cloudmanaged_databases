@@ -24,6 +24,7 @@ HHA 504 assignment 4a
 + Scrolled to the bottom and clicked 'Create Instance'
   
 **Setting up in MySQL Workbench**
+
 + Created a new connection
 + Named the connection to indicate it was for GCP
 + Switched Hostname to the Public IP address provided in the created instance
@@ -48,6 +49,7 @@ HHA 504 assignment 4a
 + Created server
 
 **Setting up in MySQL Workbench**
+
 + Created a new connection
 + Named the connection to indicate it was for GCP
 + Switched Hostname to the Server Name provided in the created instance
@@ -58,5 +60,14 @@ HHA 504 assignment 4a
 + Click 'OK' to create connection
 
 # MySQL Workbench Interaction
+
++  For both GCP and Azure:
++ in Query file: created a database named 'patients'
++ ran <code>use `patients`;</code> in order to create tables in the database
++ In an SQL file, created tabled with <code>CREATE TABLE</code>
+  + Specific code can be found in their respective files: [GCP](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/GCP/create.sql) , [Azure](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/Azure/code.sql)
+
+**To create ERD**
++
 
 # Errors/Challenges
