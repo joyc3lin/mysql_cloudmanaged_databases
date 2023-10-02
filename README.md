@@ -71,6 +71,9 @@ HHA 504 assignment 4a
 
 + In workbench, under Database, selected Reverse Engineer Database
   + For stored Connection, selected the respective connection that is being used: [GCP](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/GCP/Screenshot%202023-10-01%20225125.png) , [Azure](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/Azure/Screenshot%202023-10-01%20225014.png)
++ In the ERD, changed connections between tables from one-to-many to one-to-one
++ Resulting ERDs: [GCP](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/GCP/Screenshot%202023-10-01%20224702.png), [Azure](https://github.com/joyc3lin/mysql_cloudmanaged_databases/blob/main/Azure/Screenshot%202023-10-01%20225102.png)
 
 
 # Errors/Challenges
++ One error I ran into was creating the Azure connection because I had named username on Azure as joyce but kept it as root on workbench. It worked once I chanced the username to joyce in workbench as well.
